@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tacoooo786/tacogag2scripts/main/main.lua"))()
